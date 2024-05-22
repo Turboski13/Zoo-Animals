@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zoo Animals and Skill Level to Pet Them </title>
+</head>
+<body>
+    <h1>Zoo Animals and the Skills levels Neccessary to Pet Them</h1>
+  
+    <!--Beets, bears, battlestar galactica -->
+    <h2>1. Bears</h2><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YRosJGaSGpDCHyygWcnkVwHaE8%26pid%3DApi&f=1&ipt=ca2f34dfe877320e7203022e273c5dbbb6a40e84e48df97ba8025dcebb0ff3c7&ipo=images"/>
+    <ol>
+        <li> Ollie </li>
+        <li> Mona </li>
+    </ol>
+<p> Bears are pretty great, especially panda bears. But they can straight murder you. High skill level and probibly low payout, as their fur is not fluffy. 2 stars".</p>
+<a href="https://www.nationalgeographic.com/animals/mammals/facts/bears-grizzly-polar-panda">Bear Facts</a> 
+
+<!--long neck bois -->
+<h2>2. Giraffes</h2><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.eUECLBZSO0VVEzokNVW1FwHaFj%26pid%3DApi&f=1&ipt=f655e94d76490c6647091a736b795bab8c47049bf2a950cd67767c5efe344cb7&ipo=images"/>
+    <ol>
+        <li>Frankie</li>
+        <li>Coconut</li>
+    </ol>
+<p>Fun fact. It's super dangerous to be  giraffe during lightning storms. Easy going, but difficult to pet for short people. 4 stars. Worth the effort.</p>
+<a href="https://www.nationalgeographic.com/animals/mammals/facts/giraffe">Giraffe Facts</a>
+   
+<!--Like the ones in the Lion King movie -->
+<h2>3. Lions </h2><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.explicit.bing.net%2Fth%3Fid%3DOIP.qq_eNgtWgQm5wL4gfHUxLgHaHa%26pid%3DApi&f=1&ipt=a27cc145cb3b61f323db450adf7cf4b7a13c9076c4a3c6402f953d36f4ba4fc1&ipo=images"/>
+    <ol>
+        <li>Mella</li>
+        <li>Karl</li>
+    </ol>
+<p>Lions are alright. I don't have any fun facts about lions at the moment. High skill level need to pet these guys. 3 stars as they are fluffy, but also bitey.</p>
+<a href="https://www.nationalgeographic.com/animals/mammals/facts/african-lion">Lion Facts</a>
+ 
+<!--Brass monkey. That funky monkey -->
+<h2>4. Monkeys</h2><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.c9fMJVuP84oU-kZFxg5e5AHaHa%26pid%3DApi&f=1&ipt=acb7e58328ddb1f0bc8647d3f8a665d8629505edfd9588cd23e695f52c69017f&ipo=images"/>
+    <ol>
+        <li>Cookie</li>
+        <li>Earl</li>
+        <li>Banana Pudding</li>
+    </ol>
+<p> Monkeys are pretty great and cute! Generally easy to pet, depending on the type and their demenor. 4 stars as they give great hugs.</p>
+<a href="https://education.nationalgeographic.org/resource/monkey-facts/">Monkey Facts</a>
+    
+<!--Yet another wierd thing in Flordia -->
+<h2>5. Alligators</h2><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.QuUy6XNATWhqCPWlTBaDAQHaE6%26pid%3DApi&f=1&ipt=7cdc506b07bd75c817ec20d21e01d867bb2c63c07a655a1ec3bc1869b871b760&ipo=images"/>
+    <ol>
+        <li>Wren</li>
+        <li>Aspen</li>
+        <li>Mika</li>
+    </ol>
+    <p>If you really want to pet an alligator, head down to Flordia. It's a thing down there. High skill level. 1 star as they are 0% fluffy.</p>
+    <a href="https://www.nationalgeographic.com/animals/reptiles/facts/american-alligator">Alligator Facts</a> 
+</body>
+</html>
